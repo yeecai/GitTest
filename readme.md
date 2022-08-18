@@ -1,4 +1,4 @@
-ohis is a empty repo for learning GIt commands.
+This is a empty repo for learning GIt commands.
 
 local master try rebase
 
